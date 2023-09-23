@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B7C9DF55-F00B-44F3-2AC1-CB227895C207}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cellscript.cs">
+    <Files>
+      <File FileName="Assets/Cellscript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Emergence" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Cellscript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54d9054a-3837-4ca5-84ec-9280d16f673b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
